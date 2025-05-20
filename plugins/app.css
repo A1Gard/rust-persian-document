@@ -28,3 +28,10 @@ table img{
 .sidebar-nav ul{
 
 }
+.docsify-pagination-container{
+    justify-content: space-between ;
+    direction: ltr;
+}
+.pagination-item-title,.pagination-item-subtitle{
+    direction: rtl;
+}

@@ -27,12 +27,22 @@
       sidebarDisplayLevel: 1, // سطح پیش‌فرض باز شدن (1 یعنی فقط سرفصل‌ها)
       plugins: [
         window.SidebarCollapse // فعال‌سازی افزونه
-      ]
+      ],
+      pagination: {
+        previousText: 'قبلی',
+        // or
+        nextText: {
+          '/': 'بعدی'
+        },
+        crossChapter: true,
+        crossChapterText: true,
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="plugins/index.min.js"></script>
   <script src="plugins/docsify-sidebar-collapse.min.js"></script>
+  <script src="plugins/docsify-pagination.min.js"></script>
   <script src="plugins/docsify@4.js"></script>
   <script src="plugins/prism-bash.min.js"></script>
   <script src="plugins/prism-rust.min.js"></script>
