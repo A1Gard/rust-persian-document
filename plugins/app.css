@@ -9,3 +9,22 @@ code{
 img{
     max-width: 100%;
 }
+
+table{
+    width: 100%;
+    display: table !important;
+}
+
+table img{
+    max-width: 100px !important;
+}
+
+.sidebar-nav ul{
+    direction: rtl;
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+}
+
+.sidebar-nav ul{
+
+}

@@ -55,9 +55,9 @@
     - [خطاهای قابل بازیابی با `Result`](./092.recoverable-errors-with-result.md)
     - [به `panic!` یا نه به `panic!`](./093.painc-or-not-panic.md)
 
-- **فصل ۱۰: جنریک‌ها، ویژگی‌‌ها و طول عمرها**
-    - [جنریک‌ها، ویژگی‌‌ها و طول عمرها](./100.generics.md)
-    - [نحو جنریک‌ها](./101.syntax.md)
+- **فصل ۱۰: Generic‌ها، ویژگی‌‌ها و طول عمرها**
+    - [Generic‌ها، ویژگی‌‌ها و طول عمرها](./100.generics.md)
+    - [نحو Generic‌ها](./101.syntax.md)
     - [ویژگی‌‌ها](./102.traits.md)
     - [نحو طول عمرها](./103.lifetime-syntax.md)
 
