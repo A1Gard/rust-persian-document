@@ -1,0 +1,11 @@
+*{
+    font-family: Vazirmatn, sans-serif;
+}
+
+code{
+    direction: ltr !important;
+}
+
+img{
+    max-width: 100%;
+}

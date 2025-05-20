@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="plugins/theme-simple-dark.css">
+  <link rel="stylesheet" href="plugins/prism-one-dark.min.css">
+  <link rel="stylesheet" href="node_modules/vazirmatn/Vazirmatn-font-face.css">
+  <link rel="stylesheet" href="plugins/app.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'مستندات زبان Rust',
+      repo: '',
+      rtl: {
+        body: "rtl",
+        side: "ltr",
+        bdo: "ltr"
+      },
+      loadSidebar: '_sidebar.md',
+      subMaxLevel: 3,
+      sidebarDisplayLevel: 1, // سطح پیش‌فرض باز شدن (1 یعنی فقط سرفصل‌ها)
+      plugins: [
+        window.SidebarCollapse // فعال‌سازی افزونه
+      ]
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="plugins/index.min.js"></script>
+  <script src="plugins/docsify-sidebar-collapse.min.js"></script>
+  <script src="plugins/docsify@4.js"></script>
+  <script src="plugins/prism-bash.min.js"></script>
+  <script src="plugins/prism-rust.min.js"></script>
+  <script src="node_modules/prismjs/prism.js"></script>
+</body>
+</html>
