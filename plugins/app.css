@@ -35,3 +35,17 @@ table img{
 .pagination-item-title,.pagination-item-subtitle{
     direction: rtl;
 }
+
+.err{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 1em;
+}
+.err img{
+    height: 50px;
+    position: relative;
+    top: 55px;
+    z-index: 7;
+    right: 10px;
+}
