@@ -37,6 +37,17 @@
         crossChapter: true,
         crossChapterText: true,
       },
+
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: 'جستجو در مستندات',
+        noData: 'بدون نتیجه!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false,
+      }
     }
   </script>
   <!-- Docsify v4 -->
@@ -47,5 +58,6 @@
   <script src="plugins/prism-bash.min.js"></script>
   <script src="plugins/prism-rust.min.js"></script>
   <script src="node_modules/prismjs/prism.js"></script>
+  <script src="plugins/search.min.js"></script>
 </body>
 </html>
