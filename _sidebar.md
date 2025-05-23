@@ -15,7 +15,7 @@
     - [متغیرها و تغییرپذیری](./031.variables-and-mutability.md)
     - [انواع داده](./032.data-types.md)
     - [توابع](./33.functions.md)
-    - [نظرات](./034.comments.md)
+    - [کامنت‌ها](./034.comments.md)
     - [جریان کنترل](./035.control-flow.md)
 
 - **فصل ۴: درک مالکیت**
@@ -144,9 +144,10 @@
 
 - **پیوست‌ها**
     - [پیوست‌ها](./220.appendix.md)
-    - [کلمات کلیدی](./221.keywords.md)
+    - [کلیدواژه‌ها](./221.keywords.md)
     - [عملگرها و نمادها](./222.operators.md)
     - [ویژگی‌‌های قابل اشتقاق](./223.derivable-traits.md)
     - [ابزارهای مفید توسعه](./224.useful-development-tools.md)
     - [ویرایش‌ها](./225.editions.md)
     - [نحوه ساخت Rust و Rust شبانه](./226.appendix-07-nightly-rust.md)
+    - [سوالات متداول](./227.faq.md)

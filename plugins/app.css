@@ -1,7 +1,10 @@
 *{
     font-family: Vazirmatn, sans-serif;
 }
-
+input{
+    font-family: Vazirmatn, sans-serif !important;
+    direction: rtl;
+}
 code{
     direction: ltr !important;
 }
@@ -15,6 +18,9 @@ table{
     display: table !important;
 }
 
+table td , table th{
+    text-align: center !important;
+}
 table img{
     max-width: 100px !important;
 }

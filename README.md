@@ -32,7 +32,7 @@ https://a1gard.github.io/rust-persian-document/#/
 - [متغیرها و تغییرپذیری](./031.variables-and-mutability.md)
 - [انواع داده](./032.data-types.md)
 - [توابع](./33.functions.md)
-- [نظرات](./034.comments.md)
+- [کامنت‌ها](./034.comments.md)
 - [جریان کنترل](./035.control-flow.md)
 
 ### فصل ۴: درک مالکیت
@@ -161,7 +161,7 @@ https://a1gard.github.io/rust-persian-document/#/
 
 ### پیوست‌ها
 - [پیوست‌ها](./220.appendix.md)
-- [کلمات کلیدی](./221.keywords.md)
+- [کلیدواژه‌ها](./221.keywords.md)
 - [عملگرها و نمادها](./222.operators.md)
 - [ویژگی‌‌های قابل اشتقاق](./223.derivable-traits.md)
 - [ابزارهای مفید توسعه](./224.useful-development-tools.md)
