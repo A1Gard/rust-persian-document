@@ -163,7 +163,7 @@ https://a1gard.github.io/rust-persian-document/#/
 - [پیوست‌ها](./220.appendix.md)
 - [کلیدواژه‌ها](./221.keywords.md)
 - [عملگرها و نمادها](./222.operators.md)
-- [ویژگی‌‌های قابل اشتقاق](./223.derivable-traits.md)
+- [ویژگی‌‌های قابل اشتقاق (قابل‌استنتاج)](./223.derivable-traits.md)
 - [ابزارهای مفید توسعه](./224.useful-development-tools.md)
 - [ویرایش‌ها](./225.editions.md)
 - [نحوه ساخت Rust و Rust شبانه](./226.appendix-07-nightly-rust.md)
