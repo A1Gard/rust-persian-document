@@ -1,12 +1,34 @@
+@font-face {
+    font-family: VazirCodeX;
+    src: url('../fonts/VazirCodeX.ttf') format('truetype');
+    font-style: normal;
+    font-display: swap;
+}
+
 *{
     font-family: Vazirmatn, sans-serif;
 }
+
 input{
     font-family: Vazirmatn, sans-serif !important;
     direction: rtl;
 }
 code{
     direction: ltr !important;
+    font-size: 80% !important;
+    font-family: VazirCodeX, Vazirmatn, sans-serif !important;
+    line-height: 1.5em !important;
+}
+code span{
+    font-family: VazirCodeX, Vazirmatn, sans-serif !important;
+    font-size: 115% !important;
+}
+span.comment{
+    direction: rtl !important;
+    display: inline-block;
+}
+span.comment:after{
+    content: '//';
 }
 
 img{
