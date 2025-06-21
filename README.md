@@ -46,9 +46,9 @@ https://a1gard.github.io/rust-persian-document/#/
 - [مثالی از برنامه با ساختارها](./052.example-structs.md)
 - [نحو متد](./053.method-syntax.md)
 
-### فصل ۶: شمارشگرها و جریان کنترل
-- [شمارشگرها](./060.enums.md)
-- [تعریف یک شمارشگر](./061.defining-an-enum.md)
+### فصل ۶: برشمارشگرها و جریان کنترل
+- [برشمارشگرها](./060.enums.md)
+- [تعریف یک برشمارشگر](./061.defining-an-enum.md)
 - [عملگر `match`](./062.match.md)
 - [جریان کنترل با `if let`](./063.if-let.md)
 
@@ -113,7 +113,7 @@ https://a1gard.github.io/rust-persian-document/#/
 - [استفاده از `Box<T>` برای اشاره به داده‌ها در هیپ](./151.box.md)
 - [استفاده از اشاره‌گرهای هوشمند مانند ارجاعات با `Deref`](./152.deref.md)
 - [اجرای کد در زمان پاکسازی با ویژگی‌ `Drop`](./153.drop.md)
-- [شمارش ارجاعات با `Rc<T>`](./154.rc.md)
+- [برشمارش ارجاعات با `Rc<T>`](./154.rc.md)
 - [تغییرپذیری داخلی با `RefCell<T>`](./155.interior-mutability.md)
 - [جلوگیری از چرخه‌های ارجاعی: تبدیل یک `Rc<T>` به یک `Weak<T>`](./156.reference-cycles.md)
 

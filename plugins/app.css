@@ -28,7 +28,7 @@ span.comment{
     display: inline-block;
 }
 span.comment:after{
-    content: '//';
+    content: ' //';
 }
 
 img{
