@@ -119,8 +119,8 @@ https://a1gard.github.io/rust-persian-document/#/
 
 ### فصل ۱۶: برنامه‌نویسی هم‌زمان
 - [برنامه‌نویسی هم‌زمان بدون ترس](./160.concurrency.md)
-- [استفاده از نخ‌ها برای اجرای همزمان کد](./161.threads.md)
-- [انتقال پیام بین نخ‌ها](./162.message-passing.md)
+- [استفاده از رسیمان‌ها برای اجرای همزمان کد](./161.threads.md)
+- [انتقال پیام بین رسیمان‌ها](./162.message-passing.md)
 - [وضعیت مشترک هم‌زمان](./163.shared-state.md)
 - [هم‌زمانی قابل گسترش با ویژگی‌‌های `Sync` و `Send`](./164.extensible-concurrency-sync-and-send.md)
 
@@ -131,7 +131,7 @@ https://a1gard.github.io/rust-persian-document/#/
 - [آینده‌های بیشتر](./173.more-futures.md)
 - [جریان‌ها](./174.streams.md)
 - [ویژگی‌‌ها برای `async`](./175.traits-for-async.md)
-- [آینده‌ها، وظایف و نخ‌ها](./176.futures-tasks-threads.md)
+- [آینده‌ها، وظایف و رسیمان‌ها](./176.futures-tasks-threads.md)
 
 ### فصل ۱۸: ویژگی‌های شیءگرا در Rust
 - [ویژگی‌های شیءگرا در Rust](./180.oop.md)
@@ -153,10 +153,10 @@ https://a1gard.github.io/rust-persian-document/#/
 - [توابع و بسته‌های پیشرفته](./204.advanced-functions-and-closures.md)
 - [ماکروها](./205.macros.md)
 
-### فصل ۲۱: پروژه نهایی: ساخت یک وب‌سرور چندنخی
+### فصل ۲۱: پروژه نهایی: ساخت یک وب‌سرور چند رسیمانی
 - [پروژه نهایی: ساخت یک وب‌سرور](./210.final-project-a-web-server.md)
-- [یک وب‌سرور تک‌نخی](./211.single-threaded.md)
-- [تبدیل وب‌سرور به چندنخی](./212.multithreaded.md)
+- [یک وب‌سرور تک‌ رسیمانی](./211.single-threaded.md)
+- [تبدیل وب‌سرور به چند رسیمانی](./212.multithreaded.md)
 - [خاموشی و پاکسازی زیبا](./213.graceful-shutdown-and-cleanup.md)
 
 ### پیوست‌ها
