@@ -151,3 +151,4 @@
     - [ویرایش‌ها](./225.editions.md)
     - [نحوه ساخت Rust و Rust شبانه](./226.appendix-07-nightly-rust.md)
     - [سوالات متداول](./227.faq.md)
+    - [تمرین‌ های هر فصل](./practice.md)

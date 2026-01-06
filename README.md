@@ -7,6 +7,10 @@
 
 https://a1gard.github.io/rust-persian-document/#/
 
+کتاب اصلی:
+
+https://doc.rust-lang.org/book/
+
 ## مقدمه
 
 این بخش شامل مقدمه‌های کتاب است که زمینه را برای یادگیری **Rust** فراهم می‌کنند:
@@ -168,3 +172,4 @@ https://a1gard.github.io/rust-persian-document/#/
 - [ویرایش‌ها](./225.editions.md)
 - [نحوه ساخت Rust و Rust شبانه](./226.appendix-07-nightly-rust.md)
 - [سوالات متداول](./227.faq.md)
+- [تمرین‌ های هر فصل](./practice.md)
